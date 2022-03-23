@@ -2,7 +2,7 @@
 
 Este proyecto consta de un servidor REST sencillo para la gestión de items.
 
-## Construir la aplicación (en local)
+## Construir la aplicación (en local) x
 
 Para construir el JAR del proyecto (y lanzar los test):
 
